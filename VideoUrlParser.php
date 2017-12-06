@@ -158,7 +158,7 @@ class Services_VideoUrlParser
 	 * 56网
 	 * http://www.56.com/u73/v_NTkzMDcwNDY.html
 	 * http://player.56.com/v_NTkzMDcwNDY.swf
-	 http://tv.sohu.com/upload/static/share/share_play.html#93267570_245572917_0_9001_0
+	 * http://tv.sohu.com/upload/static/share/share_play.html#93267570_245572917_0_9001_0
 	 */
 	static private function _parse56($url)
 	{
